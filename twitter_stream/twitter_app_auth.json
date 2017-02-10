@@ -1,0 +1,52 @@
+{
+  "apikeys": {
+		"i0mf0rmer01" :{
+			"app_key":"uY39XQik2xQXlCiDqALt72kEl",
+			"app_secret":"jw3qmF4F3cleStXolrIuVdSfMQKt0dWsjgGN0Q5h1B6AetFJbj",
+			"oauth_token":"815826696087580673-5wwipEVwZ3eTCOUSv8iNiqxSGUTEA8p",
+			"oauth_token_secret":"dGp1vWPUbqelNwePq85wUJF9oLtSCT1uArdUfPPNwEKbc"
+		},
+		"i0mf0rmer02" :{
+			"app_key":"plicOhAhiVwwu6LWDxO9maICQ",
+			"app_secret":"4PdcA64dn4RTlsDr5m8xbNRF62SsTGHFWNy7vPjVXHsHMOALaZ",
+			"oauth_token":"815826696087580673-9f1veps67HwGtGgCCkJ1DO8uvhg6pVb",
+			"oauth_token_secret":"hqjFjD8onizTvJ9SE257UJPKceqdfCaAD1dcdxahfod5V"
+		},
+		"i0mf0rmer03" :{
+			"app_key":"tyVxvfsYANx794nlfFWkzfYJn",
+			"app_secret":"4oHDVoZGtz3BIYRdliPfPLyqHU3a24cwDFk5yIOdS6WI8M816x",
+			"oauth_token":"815826696087580673-Mfugj4SuB2iGasSC6NnpECGgbNVp088",
+			"oauth_token_secret":"Cc5jm7yCB9qfN6PiO8U2jtXqypEIo8yvDVgqp4QvZPwlY"
+		},
+		"i0mf0rmer04" :{
+			"app_key":"iRpw8Mhyb2gfd25UA0MsOlZn0",
+			"app_secret":"wZdRgKzToJ3Te8DgPz8gSOOOyGtNnQkGr3FGBcgZUJr1qXkGMf",
+			"oauth_token":"815826696087580673-7OLfA9DEceytFHziL3xWlcPi6UcG0Cf",
+			"oauth_token_secret":"83edXneDQJW3eKIjtoiBBQZszlhbCtmLeCofyYImyGxPn"
+		},
+		"i0mf0rmer05" :{
+			"app_key": "7mPw08HluDNorzCTXLFtxeYHe",
+			"app_secret": "8meUUujfh1s6ZEQOOETSY6dn8wfpTVUaeM8VQnXFrPuvBHNK5F",
+			"oauth_token": "815826696087580673-Ei2CJ5ypj3nsXeVLgCr3Os1AkNyo1up",
+			"oauth_token_secret": "ofiWyXTKVYT9gLdyj9HsFlugRUeNrTJC3JOJnVPmToBDX"
+		},
+		"i0mf0rmer06" :{
+			"app_key": "BdL91er1nhOZniJTLRmePgDTQ",
+			"app_secret": "Qj3Fha4IaqFmprRqse32nvhYNCZ1sSOmIfaKCEpT7fL3JgLwGb",
+			"oauth_token": "815826696087580673-p0eVOzoSteVqxfrv7rZxu8cMEbiWqHB",
+			"oauth_token_secret": "XkfDmiyA8MpYXttZMFU2pA6IgMKEC6V1YynShimEfE7PA"
+		},
+		"i0mf0rmer07" :{
+			"app_key": "7EQaWrUBPHjHHdGOhrNGL5MKM",
+			"app_secret": "H1bWmJ5RCHsg4LRf2S8EFw3BYRfKs1Alk6kihyvmTncdUncyq1",
+			"oauth_token": "815826696087580673-PjwcV8KiEsDpfdDOwndu5tx2o0WCsfr",
+			"oauth_token_secret": "oYSLM5TtgGHXx66REYErNGdX7be9SR2yBb3ePKBVGzLV7"
+		},
+		"i0mf0rmer08" :{
+			"app_key": "4L70diQkukYKVHsku30KMAl7R",
+			"app_secret": "2vtfzLNpetQxoswD3dHlu9IQDCnOIZ8srf1dWONK3X2JcAn3lR",
+			"oauth_token": "815826696087580673-oOhFXm3hZZ8jB8JaXKMEV1kBaAteUoH",
+			"oauth_token_secret": "DVVUgE5hiaoBACE14A0cWKvv0QNwGOZ8FTFgUOCyp9UZM"
+		}
+  }
+}
