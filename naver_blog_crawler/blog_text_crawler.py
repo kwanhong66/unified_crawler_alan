@@ -40,7 +40,7 @@ def make_structure(blog_id, log_no, raw, doc, crawled_time,
             u"title": title,
             u"text": merged_text,
             u"writtenTime": written_time,
-            u"crawledTIme": crawled_time,
+            u"crawledTime": crawled_time,
             u"url": url,
             u"tags": tags
     }

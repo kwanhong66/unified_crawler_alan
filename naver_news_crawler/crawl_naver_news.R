@@ -61,9 +61,12 @@ for (date in strDate:endDate){
         # 가져온 url들의 정보를 가져옵니다.
         for (newslink in newsList$links){
           # 불러오기에 성공할 때 까지 반복합니다.
+          # 성공할때 까지 반복하면 못나오는 문제가 있어서 5회로 제한합니다.
+          tryi<-0
           tem<-try(getContent(newslink), silent = TRUE)
-          while(class(tem)=="try-error"){
+          while(tryi<=5&&class(tem)=="try-error"){
             tem<-try(getContent(newslink), silent = TRUE)
+            tryi<-tryi+1
             print(paste0("try again: ",newslink))
           }
           if(class(tem$datetime)[1]=="POSIXct"){

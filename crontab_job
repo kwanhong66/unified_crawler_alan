@@ -1,2 +1,2 @@
 0 0-23 * * * /home/rnd1/PycharmProjects/unified_crawler/blog_list_crawl.sh all # 매일 0시부터 23시까지 1시간 간격으로 블로그 리스트 수집
-0 0 * * * /home/rnd1/PycharmProjects/unified_crawler/naver_news_crawl.sh all date "+\%Y-\%b-\%d" -d "yesterday + 540 minutes" # 전날 모든 카테고리 뉴스 데이터 수집
+0 0 * * * /home/rnd1/PycharmProjects/unified_crawler/naver_news_crawl.sh all # 전날 모든 카테고리 뉴스 데이터 수집
