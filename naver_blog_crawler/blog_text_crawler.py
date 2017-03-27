@@ -6,12 +6,23 @@ import glob
 # import urllib2
 import urllib.request
 import time
+import re
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 
-from naver_blog_crawler.utils import checkdir, file_read, get_version
+# from naver_blog_crawler.utils import checkdir, file_read, get_version
 
 URLBASE = 'http://m.blog.naver.com/%s/%s'
+
+def checkdir(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+        print('Created %s' % directory)
+
+def file_read(filename):
+   json_data = open(filename)
+   data = json.load(json_data)
+   return data
 
 def get_page(url):
     try:
@@ -23,22 +34,54 @@ def get_page(url):
         time.sleep(100)
         return None
 
+def replace_with_newlines(element):
+    text = ''
+    for elem in element.recursiveChildGenerator():
+        if isinstance(elem, Comment):
+            continue
+        elif isinstance(elem, str):
+            text += elem.strip()
+        elif elem.name == 'br':
+            text += '\n'
+    return text
+
+def get_plain_text(soup):
+    plain_text = ''
+    for line in soup.find_all("p", {}):
+        if line.attrs['class'][0] == 'se_date':
+            continue
+        line = replace_with_newlines(line)
+        plain_text += line
+    return plain_text
+
 def make_structure(blog_id, log_no, raw, doc, crawled_time,
                                     title, written_time, url, tags, directory_seq,
                                     encoding='utf-8'):
 
     sub_doc = doc.find("div", {"class": "post_ct"})
-    texts = [text.get_text() for text in sub_doc.find_all("p", {})]
-    # text = doc.find("p", {"class": "se_textarea"}).get_text()
-    merged_text = ' '.join(texts)
 
-    # extract_category     = lambda doc: doc.find("a", {"class": "_categoryName"}).get_text().encode(encoding)
-    # extract_content_html = lambda doc: doc.find("div", {"id": "viewTypeSelector"})
+    texts = []
+    plain_text = get_plain_text(sub_doc)
+    # find all <p> tag elements in <div class='post_ct'>
+    # for text in sub_doc.find_all("p", {}):
+    #     if text.attrs['class'][0] == 'se_date':
+    #         continue
+    #     else:
+    #         texts.append(text.get_text(" ",strip=True))
+
+    # punc_split_texts = []
+    # for text in texts:
+    #     # split by punctuation marks (. ! ?)
+    #     items = re.split('(?<=[.!?]) +', text)
+    #     for item in items:
+    #         punc_split_texts.append(item)
+
+    # merged_text = '\n'.join(punc_split_texts)
 
     return {
             u"directorySeq": directory_seq,
             u"title": title,
-            u"text": merged_text,
+            u"text": plain_text,
             u"writtenTime": written_time,
             u"crawledTime": crawled_time,
             u"url": url,

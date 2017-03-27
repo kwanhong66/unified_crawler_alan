@@ -1,0 +1,1601 @@
+DEBUG:happybase.connection:Opening Thrift transport to 10.1.1.187:9090
+DEBUG:happybase.connection:Closing Thrift transport to 10.1.1.187:9090
+DEBUG:happybase.connection:Opening Thrift transport to 10.1.1.187:9090
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 23 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 24 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 24 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 22 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 24 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 24 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 24 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 24 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (100 mutations on 25 rows)
+DEBUG:happybase.batch:Sending batch for 'b'text_crawling:naver_news_table'' (8 mutations on 2 rows)
+DEBUG:happybase.connection:Closing Thrift transport to 10.1.1.187:9090
+HBase batch insert start... 2017-02-22 11:42
+HBase batch insert start... 2017-02-22 11:43
+HBase batch insert start... 2017-02-22 11:47
+HBase batch insert start... 2017-02-22 11:49
+HBase batch insert start... 2017-02-22 11:51
+HBase batch insert start... 2017-02-22 11:51
+HBase batch insert start... 2017-02-22 11:52
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 363628
+Start to insert batch...
+Excetption 'category'
+Connection closed
+HBase batch insert start... 2017-02-22 11:58
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 33661
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 15:08
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 588
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 15:09
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 822
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 15:23
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 815
+Start to insert batch...
+Excetption Field 'value(3)' of 'Mutation' needs type 'STRING', but the value is `{'content': '(베이징=연합뉴스) 심재훈 특파원 = 베르나르 카즈뇌브 프랑스 총리가 내주 중국을 방문해 시진핑(習近平) 국가 주석 등 핵심 지도부를 만날 예정이다.     중국 외교부는 15일 카즈뇌브 총리가 오는 21일부터 23일까지 리커창(李克强) 중국 총리의 초청으로 베이징을 방문한다고 밝혔다.     겅솽(耿爽) 중국 외교부 대변인은 이날 정례 브리핑에서 "이번 프랑스 총리의 방문은 올해 들어 첫 유럽 지도자의 방문"이라면서 "양국 지도자들은 양국 관계 및 공통 관심사에 대해 깊이 있게 의견을 교환할 것"이라고 말했다.', 'press': '연합뉴스', 'url': 'http://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=104&sid2=231&oid=001&aid=0009036998', 'title': '프랑스 총리 내주 방중…시진핑·리커창 만나', 'datetime': '2017-02-15 18:10:00'}`
+Connection closed
+HBase batch insert start... 2017-02-22 15:24
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 815
+Start to insert batch...
+Excetption __init__() got an unexpected keyword argument 'encoding'
+Connection closed
+HBase batch insert start... 2017-02-22 15:25
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 815
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 15:29
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 329
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 15:52
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 351
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 16:05
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 490
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-22 16:05
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 1312
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-23 09:35
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 69895
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-23 09:37
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 151779
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-23 09:40
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 21754
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-24 23:00
+HBase batch insert start... 2017-02-24 23:00
+HBase batch insert start... 2017-02-24 23:00
+HBase batch insert start... 2017-02-25 23:00
+HBase batch insert start... 2017-02-25 23:00
+HBase batch insert start... 2017-02-25 23:00
+HBase batch insert start... 2017-02-26 23:00
+HBase batch insert start... 2017-02-26 23:00
+HBase batch insert start... 2017-02-26 23:00
+HBase batch insert start... 2017-02-27 09:45
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 42868
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 09:46
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 7695
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 09:46
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 108235
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 09:50
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 41482
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 09:52
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 9115
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 09:52
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 108663
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 10:06
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 70703
+Start to insert batch...
+Connection closed
+HBase batch insert start... 2017-02-27 10:14
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 70703
+Start to insert batch...
+Connection closed
+HBase batch insert start... 2017-02-27 11:46
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 60688
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 11:48
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 18652
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 11:48
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 143116
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 41482
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 108663
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-27 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 9115
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-28 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+HBase batch insert start... 2017-02-28 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 141816
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-02-28 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 24004
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-01 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+HBase batch insert start... 2017-03-01 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 138154
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-01 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 22103
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-02 09:44
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+HBase batch insert start... 2017-03-02 09:49
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+HBase batch insert start... 2017-03-02 09:49
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+HBase batch insert start... 2017-03-02 09:53
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+HBase batch insert start... 2017-03-02 10:09
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_176.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_244.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_184.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_202.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_173.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_134.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_351.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_267.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_228.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_224.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_207.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_261.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_300.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_259.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_303.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_227.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_238.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_250.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_223.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_362.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_356.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_243.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_322.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_336.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_139.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_135.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_312.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_154.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_217.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_199.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_284.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_167.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_130.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_301.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_247.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_175.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_169.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_298.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_280.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_197.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_355.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_155.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_185.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_333.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_292.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_162.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_255.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/28/20170228_321.json
+Retrieving archived files is done. the number of file(json): 56827
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-02 10:56
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_23.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_39.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_52.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_37.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_44.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_63.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_58.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_67.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_12.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_35.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_22.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_95.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/02/27/20170227_31.json
+Retrieving archived files is done. the number of file(json): 62569
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-02 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 76330
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-02 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 125600
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-02 23:05
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 13702
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-03 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 79300
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-03 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 139892
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-03 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 22114
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-04 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 74944
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-04 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 76178
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-04 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 13086
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-05 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 52669
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-05 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 62792
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-05 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 4510
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-06 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 56827
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-06 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 63911
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-06 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 6508
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-07 23:00
+HBase batch insert start... 2017-03-07 23:00
+HBase batch insert start... 2017-03-07 23:00
+HBase batch insert start... 2017-03-08 23:00
+HBase batch insert start... 2017-03-08 23:00
+HBase batch insert start... 2017-03-08 23:00
+HBase batch insert start... 2017-03-09 09:39
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 53659
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 09:41
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16490
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 09:41
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 77782
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 11:13
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 55639
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 11:14
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16715
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 11:14
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 78492
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 55639
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 78492
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-09 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16715
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-10 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 48610
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-10 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 74845
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-10 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16183
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-11 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 118603
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-11 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 71135
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-11 23:05
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16712
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-12 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 57718
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-12 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 57895
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-12 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 5152
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-13 23:00
+HBase batch insert start... 2017-03-13 23:00
+HBase batch insert start... 2017-03-13 23:00
+HBase batch insert start... 2017-03-14 14:07
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 68509
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-14 14:10
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 14045
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-14 14:10
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73798
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-14 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 68509
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-14 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73798
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-14 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 14045
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-15 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 56728
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-15 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73817
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-15 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 15276
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-16 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 75439
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-16 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73541
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-16 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16769
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-17 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 75637
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-17 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73729
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-17 23:07
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16396
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-18 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 78013
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-18 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 72346
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-18 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 11253
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-19 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 47323
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-19 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 59911
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-19 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 4611
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-20 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 37720
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-20 23:01
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 59831
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-20 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 6914
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-21 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 74053
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-21 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 75985
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-21 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 14794
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-22 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 89695
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-22 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 74539
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-22 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16224
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-23 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/22/20170322_236.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/22/20170322_214.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/22/20170322_296.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/22/20170322_90.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/22/20170322_290.json
+Retrieving archived files is done. the number of file(json): 68410
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-23 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73610
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-23 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16881
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-24 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/23/20170323_617.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/23/20170323_434.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/23/20170323_459.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/23/20170323_619.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/23/20170323_640.json
+invalid json: /home/rnd1/data//twitter-crawler/twitter_stream/press/2017/03/23/20170323_597.json
+Retrieving archived files is done. the number of file(json): 73657
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-24 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73413
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-24 23:06
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 16989
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-25 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 86428
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-25 23:03
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 73703
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-25 23:04
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 14226
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-26 23:00
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: twitter_stream_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 57421
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-26 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_blog_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 59705
+Start to insert batch...
+Batch insert done
+Connection closed
+HBase batch insert start... 2017-03-26 23:02
+Connect to HBase. host: 10.1.1.187, port: 9090, table name: naver_news_table, batch size: 100
+Retrieving archived files is done. the number of file(json): 4735
+Start to insert batch...
+Batch insert done
+Connection closed

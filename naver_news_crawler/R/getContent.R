@@ -38,21 +38,26 @@ getContent <- function(url = url, col=c("url","datetime","press","title","conten
         #content <- tem %>% html_nodes("div#articleBodyContents") %>% html_text()
         #content <- tem %>% html_nodes(xpath='//*[@id="articleBodyContents"]/text()[1]') %>% html_text()
         con <- tem %>% html_nodes("div#articleBodyContents") %>% html_nodes(xpath='.//text()[preceding-sibling::br or following-sibling::br]') %>% html_text()
+
         result <- c()
         for (idx in 1:length(con)) {
             item <- con[idx]
+            # substr(x, start, stop): string vector x from start to stop
+            # pick paragraphs in the article with . ended
             if ("." == substr(item, nchar(item), nchar(item))){
+                # item <- gsub("(?<=[.] {0,1})", ".\n", item, perl=T)
+                item <- paste0(item, "\n")
                 result <- c(result, item)
             }
         }
 
-        content <- paste(result, collapse=' ')
+        content <- paste(result, collapse='')
 
         Encoding(content) <- "UTF-8"
         # trim whitespace from start and end of string
         content <- str_trim(content,side="both")
         # substitue new line with whitespace
-        content <- gsub("\r?\n|\r", " ", content)
+        # content <- gsub("\r?\n|\r", " ", content)
 
         newsInfo <- data.frame(url = url, datetime = datetime, edittime = edittime, press = press, title = title, content = content, stringsAsFactors = F)
 

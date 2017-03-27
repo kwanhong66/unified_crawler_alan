@@ -30,7 +30,9 @@ class TwitterStreamer(twython.TwythonStreamer):
         if not os.path.exists(self.output_folder):
             os.makedirs(self.output_folder)
 
-        self.counter = 0
+        self.item_list = []
+
+        self.counter = 1
         if category is not None:
             self.category = category
 
@@ -50,17 +52,25 @@ class TwitterStreamer(twython.TwythonStreamer):
             if not os.path.exists(target_path):
                 os.makedirs(target_path)
 
-            # output_file = os.path.abspath('%s/%s/%d.json' % (target_path, now.strftime("%Y%m%d"), (self.counter % 1000)))
-            file_name = now.strftime("%Y%m%d") + '_' + str((self.counter // 1000)) + '.json'
-            output_path = os.path.join(target_path, file_name)
+            tweet['category'] = self.category
 
-            with open(output_path, 'a+') as f:
-                # f.write('%s\n' % json.dumps(tweet))
-                json.dump(tweet, f, ensure_ascii=False, indent=4)
-
+            if (self.counter % 100 != 0):
+                self.item_list.append(tweet)
+                # print(self.counter)
                 self.counter += 1
-                if self.counter % 10000 == 0:
-                    logger.info("received: %d" % self.counter)
+            else:
+                # output_file = os.path.abspath('%s/%s/%d.json' % (target_path, now.strftime("%Y%m%d"), (self.counter % 1000)))
+                file_name = now.strftime("%Y%m%d") + '_' + str((self.counter // 100)) + '.json'
+                output_path = os.path.join(target_path, file_name)
+                self.counter += 1
+                with open(output_path, 'w+') as f:
+                    # f.write('%s\n' % json.dumps(tweet))
+                    # print('Writing...', output_path)
+                    json.dump(self.item_list, f, ensure_ascii=False, indent=4)
+                    del self.item_list[:]
+                    # self.counter += 1
+                    # if self.counter % 1000 == 0:
+                    #     logger.info("received: %d" % self.counter)
 
     def on_error(self, status_code, data):
         logger.warn('ERROR CODE: [%s]-[%s]' % (status_code, data))
@@ -137,7 +147,7 @@ def filter_by_locations(config, output_folder, locations=None):
         streamer.statuses.filter(locations=locations)
 
 def filter_by_keywords(config, output_folder, category=None):
-    with open(os.path.abspath('./track_keywords.json'), 'r') as keywords_f:
+    with open(os.path.abspath('/home/rnd1/PycharmProjects/unified_crawler/twitter_stream/track_keywords.json'), 'r') as keywords_f:
         category_keywords = json.load(keywords_f)
         category_key = category
         # load pre-defined category keywords from track_keywords.json
@@ -147,9 +157,20 @@ def filter_by_keywords(config, output_folder, category=None):
         # keywords_list = ["가","가까스로","가령","각","각각"]
         streamer.statuses.filter(track=keywords_list)
 
+def filter_by_users(config, output_folder, category=None):
+    with open(os.path.abspath('/home/rnd1/PycharmProjects/unified_crawler/twitter_stream/track_users.json'), 'r') as users_f:
+        user_categories = json.load(users_f)
+        category_key = category
+        # load pre-defined category users from track_users.json
+        users_list = user_categories[category_key]
+
+        streamer = init_streamer(config, output_folder, category=category)
+
+        streamer.statuses.filter(follow=users_list)
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-c', '--config', help="config.json that contains twitter api keys;", default="./twitter_app_auth.json")
+    parser.add_argument('-c', '--config', help="config.json that contains twitter api keys;", default="/home/rnd1/PycharmProjects/unified_crawler/twitter_stream/twitter_app_auth.json")
     parser.add_argument('-o', '--output', help="output folder data", default="/home/rnd1/data/twitter_crawler/twitter_stream/")
     parser.add_argument('-cmd', '--command', help="command", default="keywords")
     parser.add_argument('-cc', '--command_data', help="command data", default=None)
@@ -166,6 +187,8 @@ if __name__ == "__main__":
                         filter_by_locations(config, args.output, args.command_data)
                     elif (args.command == 'keywords'):
                         filter_by_keywords(config, args.output, args.command_data)
+                    elif (args.command == 'users'):
+                        filter_by_users(config, args.output, args.command_data)
                     else:
                         collect_public_tweets(config, args.output)
                 except Exception as exc:

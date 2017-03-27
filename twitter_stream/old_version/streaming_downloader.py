@@ -34,10 +34,10 @@ class FileListener(StreamListener):
     def on_data(self, data):
         current_time = datetime.datetime.now()
 
-        # if self.current_file == None or time.time() - self.restart_time > self.file_start_time \
-        # 		or self.file_start_date.day != current_time.day:
-        #     self.startFile()
-        #     self.file_start_date = datetime.datetime.now()
+        if self.current_file == None or time.time() - self.restart_time > self.file_start_time \
+        		or self.file_start_date.day != current_time.day:
+            self.startFile()
+            self.file_start_date = datetime.datetime.now()
 
         if data.startswith('{'):
 
@@ -54,14 +54,14 @@ class FileListener(StreamListener):
                 if jsoned_data['lang'] == 'ko':
 
                     jsoned_data = json.loads(data)
-                    with open("/home/rnd1/data/twitter_crawler/twitter_stream/korean_tweet_streaming_keywords.json", "a", encoding='utf-8') as f:
-                        json.dump(jsoned_data, f, ensure_ascii=False, indent=4)
-
-                    self.kor_tweet_count += 1
+                    # with open("/home/rnd1/data/twitter_crawler/twitter_stream/korean_tweet_streaming_keywords.json", "a", encoding='utf-8') as f:
+                    #     json.dump(jsoned_data, f, ensure_ascii=False, indent=4)
+                    #
+                    # self.kor_tweet_count += 1
                 # time.sleep(10)
                 else:
-                    print("not ko")
-                    self.non_kor_tweet_count += 1
+                    # print("not ko")
+                    # self.non_kor_tweet_count += 1
                     time.sleep(10)
                     return False
             else:

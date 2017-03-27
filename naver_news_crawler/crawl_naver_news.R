@@ -13,31 +13,79 @@ source('/home/rnd1/PycharmProjects/unified_crawler/naver_news_crawler/R/getMaxPa
 
 args = commandArgs(trailingOnly=TRUE)
 strDate <- args[1]
-endDate <- strDate
-categoryNum <- args[2]
+endDate <- args[2]
+categoryNum <- args[3]
 
 # 메인 카테고리 id 가져옵니다.
 cate<-getMainCategory()
 tcate<-cate$sid1[strtoi(categoryNum)]
-# 정치의 세부 카테고리를 가져옵니다.
+
 subCate<-cbind(sid1=tcate,getSubCategory(sid1=tcate))
 # all sub-category
 tscate<-subCate$sid2
 
 mainDir <- "/home/rnd1/data/naver-news-crawler/news_text"
 subDir <- tcate
-year <- substr(strDate, 1, 4)
-month <- substr(strDate, 5, 6)
-day <- substr(strDate, 7, 8)
-target_path <- file.path(mainDir, subDir, year, month, day)
-
-dir.create(target_path, showWarnings = FALSE, recursive = TRUE)
-setwd(target_path)
+#year <- substr(strDate, 1, 4)
+#month <- substr(strDate, 5, 6)
+#day <- substr(strDate, 7, 8)
+#target_path <- file.path(mainDir, subDir, year, month, day)
+#
+#dir.create(target_path, showWarnings = FALSE, recursive = TRUE)
+#setwd(target_path)
 
 strTime<-Sys.time()
 midTime<-Sys.time()
 
 for (date in strDate:endDate){
+
+  year <- substr(date, 1, 4)
+  month <- substr(date, 5, 6)
+  month_i <- strtoi(month)
+  day <- substr(date, 7, 8)
+  day_i <- strtoi(day)
+
+  if (month == "08") {
+    month_i = 8
+  }
+
+  if (month == "09") {
+    month_i = 9
+  }
+
+  if (day == "08") {
+    day_i = 8
+  }
+
+  if (day == "09") {
+    day_i = 9
+  }
+
+  if (day_i == 0) {
+    next
+  } else {
+    if ((month_i == 1) | (month_i == 3) | (month_i == 5) | (month_i == 7) | (month_i == 8) | (month_i == 10) | (month_i == 12))  {
+      if (day_i > 31) {
+        next
+      }
+    } else {
+      if ((month_i == 2)) {
+        if (day_i > 28) {
+          next
+        }
+      } else {
+        if (day_i > 30) {
+          next
+        }
+      }
+    }
+  }
+
+  target_path <- file.path(mainDir, subDir, year, month, day)
+
+  dir.create(target_path, showWarnings = FALSE, recursive = TRUE)
+  setwd(target_path)
+
   for (sid1 in tcate){
     for (sid2 in tscate){
 
@@ -69,8 +117,13 @@ for (date in strDate:endDate){
             tryi<-tryi+1
             print(paste0("try again: ",newslink))
           }
-          if(class(tem$datetime)[1]=="POSIXct"){
-            newsData<-rbind(newsData,tem)
+          if (class(tem)!="try-error"){
+            if(class(tem$datetime)[1]=="POSIXct"){
+              if(tem$content == "") {
+                next
+              }
+              newsData<-rbind(newsData,tem)
+            }
           }
         }
         # 가져온 뉴스들(보통 한 페이지에 20개의 뉴스가 있습니다.)
